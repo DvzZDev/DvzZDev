@@ -4,15 +4,17 @@
 
 <br clear="both">
 
-
-
 ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DvzZDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DvzZDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DvzZDev&theme=tokyo-night&area=false&hide_border=false&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316tdn6n4dsmoin6kr6yx7ntgvf4" alt="Spoti" />
+</p>
+
+
 
 ###
 
