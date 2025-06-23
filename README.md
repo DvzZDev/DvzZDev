@@ -7,10 +7,6 @@
 
 <br clear="both">
 
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=316tdn6n4dsmoin6kr6yx7ntgvf4" alt="Spoti" />
-</p>
-
 
 <div align="center">
   <a href="https://www.linkedin.com/in/david-esteban-garcia-bba029221/" target="_blank">
