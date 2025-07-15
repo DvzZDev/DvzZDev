@@ -1,6 +1,15 @@
 <h1 align="center">Hi,👋 I'm David<br>I'm a Frontend Developer</h1>
 
+
 <div align="center">
+  <a href="https://wakatime.com/@6bd06c8f-e8ed-4ccd-aead-9566f25b3a8b">
+    <img src="https://wakatime.com/badge/user/6bd06c8f-e8ed-4ccd-aead-9566f25b3a8b.svg" alt="Total time coded since Apr 26 2024" />
+  </a>
+
+<br clear="both">
+<br clear="both">
+  
+</div><div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DvzZDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DvzZDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
 </div>
