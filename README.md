@@ -2,9 +2,6 @@
 
 
 <div align="center">
-  <a href="https://wakatime.com/@6bd06c8f-e8ed-4ccd-aead-9566f25b3a8b">
-    <img src="https://wakatime.com/badge/user/6bd06c8f-e8ed-4ccd-aead-9566f25b3a8b.svg" alt="Total time coded since Apr 26 2024" />
-  </a>
 
 <br clear="both">
 <br clear="both">
